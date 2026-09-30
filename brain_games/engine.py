@@ -8,7 +8,7 @@ def main(game):
     ROUNDS = 3 
 
     for _ in range(ROUNDS):
-        question, correct = game.even()
+        question, correct = game.generate()
         print(f'Question: {question}')
         answer = prompt.string('Your answer: ')
         if answer == correct:
