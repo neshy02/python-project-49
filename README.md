@@ -2,7 +2,8 @@
 
 [![hexlet-check](https://github.com/neshy02/python-project-49/actions/workflows/hexlet-check.yml/badge.svg)](https://github.com/neshy02/python-project-49/actions)
 
-[![asciicast](https://asciinema.org/a/1267088.svg)](https://asciinema.org/a/1267088)
+[![asciicast](https://asciinema.org/a/1267088.svg?v=2)](https://asciinema.org/a/1267088)
+
 
 
 Погрузитесь в экосистему Python и научитесь настраивать рабочее окружение. Подружитесь с менеджером зависимостей и линтером. Поймете, чем git отличается от GitHub, поработаете с внешними репозиториями. Получите опыт построения архитектуры полноценного приложения и написания чистого кода.
