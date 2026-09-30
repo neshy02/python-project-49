@@ -4,7 +4,7 @@ install:
 brain-games:
 	uv run brain-games
 
-even-games:
+brain-even:
 	uv run brain-even
 
 build:
