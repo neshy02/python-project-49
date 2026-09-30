@@ -18,8 +18,8 @@ def main(game):
             print(f"'{answer}' is wrong answer ;(.")
             print(f"Correct answer was '{correct}'") 
             print(f"Let's try again, {name}!")
-            return
-
+            return 
+  
     print(f'Congratulations, {name}!')
 
 
