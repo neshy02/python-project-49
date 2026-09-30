@@ -2,6 +2,7 @@ import random
 
 DESCRIPTION = 'What is the result of the expression?'
 
+
 def generate():
     first, second = random.randint(0, 30), random.randint(0, 10)
     operators = ['+', '-', '*']
