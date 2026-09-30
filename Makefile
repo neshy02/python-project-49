@@ -4,6 +4,9 @@ install:
 brain-games:
 	uv run brain-games
 
+even-games:
+	uv run brain-even
+
 build:
 	uv build
 
@@ -12,3 +15,5 @@ package-install:
 
 lint:
 	uv run ruff check --fix .
+
+
